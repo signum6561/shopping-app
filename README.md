@@ -10,6 +10,7 @@ Backend:
 - JWT (Optional), Spring Security
 - Lombok
 - REST API
+- Java Faker
 
 Front-end:
 - ReactJS, Typescript
@@ -18,7 +19,8 @@ Front-end:
 - Ant Design
 - Axios
 - Iconify
-- 
+- React Router DOM
+
 ## Featrues
 
 - Xác thực
