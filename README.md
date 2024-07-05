@@ -14,13 +14,13 @@ Front-end:
 - Global State Management: Zustand
 - UI/UX: SCSS module, Tailwind, Ant Design, Iconify
 - Router: React Router DOM
-- Misc: Axios
+- Misc: Axios, React Query, Toastify
 
 ## Featrues
 
-- Xác thực
+- Xác thực, người dùng không có tài khoản chỉ có thể xem sản phẩm
 - Phân quyền:
-    - User
-    - Admin
-- CRUD
-- Filter theo sản phẩm, Tìm kiếm
+    - User: xem sản phẩm, mua hàng, thêm vào giỏ hàng
+    - Admin: Toàn quyền với hệ thống
+- Tìm kiếm sản phẩm
+- Xem chọn lọc sản phẩm
