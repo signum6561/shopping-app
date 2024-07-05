@@ -3,23 +3,18 @@
 ## Usage
 
 Backend:
-- Java Sring Boot
-- JPA
-- MySQL
-- 3 layer tier
-- JWT (Optional), Spring Security
-- Lombok
-- REST API
-- Java Faker
+- Project: Java Sring Boot, JPA, Lombok
+- Database: MySQL
+- Structure: 3 layer tier
+- Authencation: JWT (Optional), Spring Security
+- Testing: JUnit, Mockito, Java Faker
 
 Front-end:
-- ReactJS, Typescript
-- Zustand
-- SCSS module/Tailwind
-- Ant Design
-- Axios
-- Iconify
-- React Router DOM
+- Project: ReactJS, Typescript
+- Global State Management: Zustand
+- UI/UX: SCSS module, Tailwind, Ant Design, Iconify
+- Router: React Router DOM
+- Misc: Axios
 
 ## Featrues
 
