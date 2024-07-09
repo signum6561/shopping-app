@@ -5,6 +5,7 @@
 Backend:
 - Project: Java Sring Boot, JPA, Lombok, Maven
 - Database: MySQL, Flyway
+- Storage: AWS
 - Structure: 3 layer tier
 - Authencation: JWT (Optional), Spring Security
 - Testing: JUnit, Mockito, Java Faker
