@@ -3,11 +3,12 @@
 ## Usage
 
 Backend:
-- Project: Java Sring Boot, JPA, Lombok
-- Database: MySQL
+- Project: Java Sring Boot, JPA, Lombok, Maven
+- Database: MySQL, Flyway
 - Structure: 3 layer tier
 - Authencation: JWT (Optional), Spring Security
 - Testing: JUnit, Mockito, Java Faker
+- Misc: NanoId
 
 Front-end:
 - Project: ReactJS, Typescript
